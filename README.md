@@ -5,64 +5,107 @@
   <a href="https://www.linkedin.com/in/drutuparna98/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:drutuparna98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Cloud and DevOps Engineer with 4 years of experience** building **secure, scalable, and automated cloud-native solutions** across **Azure, AWS and GCP**.
+I am a **Cloud and DevOps Engineer with 4 years of experience** building **secure, scalable, and automated cloud-native solutions** across **Azure, AWS, and GCP**.
 
-I specialize in **CI/CD automation, Infrastructure as Code IaC, Kubernetes, DevSecOps, and SRE practices**, with a strong focus on **reliability, observability, cost optimization, and compliance**.
+I specialize in **CI/CD automation, Infrastructure as Code (IaC), Kubernetes, DevSecOps, and SRE practices**, with a strong focus on **reliability, observability, cost optimization, and compliance**.
 
 - 🔭 Currently working on **Azure & AWS DevOps platforms**
 - 🌱 Continuously learning **Cloud Architecture, SRE, and AI-enabled platforms**
 - ⚙️ Passionate about **Automation, Resilience, and Operational Excellence**
-- 🌍 Experienced working with **Global enterprise teams**
+- 🌍 Experienced working with **global enterprise teams**
 - 📍 Based in **India**
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="left">Languages and Tools:</h3>
 
-### ☁️ Cloud Platforms
-- **Microsoft Azure** (AZ-400, AZ-305, AZ-104)
-- **AWS** (EC2, S3, IAM, VPC, EKS)
-- GCP, DigitalOcean
+<!-- Cloud Platforms -->
+<p><strong>Cloud Platforms</strong></p>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=azure" width="40"/><br/>Azure
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=gcp" width="40"/><br/>GCP
+  </div>
+</p>
 
-### 🔁 DevOps & Automation
-- Azure DevOps
-- GitHub Actions
-- Terraform
-- Ansible
-- Git
+<!-- DevOps & Automation -->
+<p><strong>DevOps & Automation</strong></p>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=azuredevops" width="40"/><br/>Azure DevOps
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br/>GitHub Actions
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=terraform" width="40"/><br/>Terraform
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=ansible" width="40"/><br/>Ansible
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git
+  </div>
+</p>
 
-### 📦 Containers & Orchestration
-- Docker
-- Kubernetes (AKS, OpenShift)
+<!-- Containers & Orchestration -->
+<p><strong>Containers & Orchestration</strong></p>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="40"/><br/>Kubernetes
+  </div>
+</p>
 
-### 📊 Monitoring & SRE
-- Prometheus
-- Grafana
-- Kibana
-- Datadog
-- SLO / SLI tracking
-- MTTR reduction
+<!-- Monitoring & SRE -->
+<p><strong>Monitoring & SRE</strong></p>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=prometheus" width="40"/><br/>Prometheus
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=grafana" width="40"/><br/>Grafana
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="40"/><br/>Kibana
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=datadog" width="40"/><br/>Datadog
+  </div>
+</p>
 
-### 🔐 Security & Compliance
-- DevSecOps
-- IAM
-- WAF
-- Encryption
-- HIPAA, GDPR, SWIFT compliance
-
-### 🧪 Scripting & Automation
-- Bash
-- PowerShell
-- Python
+<!-- OS & Scripting -->
+<p><strong>OS & Scripting</strong></p>
+<p align="left">
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=linux" width="40"/><br/>Linux
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=bash" width="40"/><br/>Bash
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=powershell" width="40"/><br/>PowerShell
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:12px;">
+    <img src="https://skillicons.dev/icons?i=nginx" width="40"/><br/>Nginx
+  </div>
+</p>
 
 ---
 
@@ -102,7 +145,6 @@ I specialize in **CI/CD automation, Infrastructure as Code IaC, Kubernetes, DevS
 - Microsoft Certified: **Power Platform Fundamentals (PL-900)**
 - Microsoft Certified: **Azure Data Fundamentals (DP-900)**
 - Microsoft Certified: **Azure Fundamentals (AZ-900)**
-
 
 ---
 
