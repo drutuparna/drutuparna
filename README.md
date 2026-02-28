@@ -23,6 +23,45 @@ I specialize in **CI/CD automation, Infrastructure as Code (IaC), Kubernetes, De
 
 ---
 
+## 💼 Professional Experience
+
+### 🚀 DevOps & Cloud Engineer Associate  
+**Cognizant** (Projects: ING Bank, TriZetto Healthcare)  
+*Feb 2022 – Present*
+
+- Designed and deployed **multi-cloud architectures** on Azure and AWS, improving scalability and reducing latency by **30%**
+- Built and maintained **CI/CD pipelines** using Azure DevOps, reducing deployment failures by **20%**
+- Automated infrastructure provisioning using **Terraform and Ansible**, cutting manual effort by **40%**
+- Containerized workloads with **Docker and Kubernetes (AKS, OpenShift)** to improve release speed and reliability
+- Implemented **observability stacks** with Prometheus, Grafana, and Kibana, reducing MTTR by **18%**
+- Applied **DevSecOps and SRE practices** including IAM, WAFs, SLOs/SLIs, and error budgets
+- Authored runbooks and ITSM documentation to improve audit readiness and onboarding
+
+---
+
+## 🎓 Education
+
+- **B.E. in Automobile Engineering** – Government College of Engineering & Research, Pune (2020)
+
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: **Azure DevOps Engineer Expert (AZ-400)**
+- Microsoft Certified: **Azure Solutions Architect Expert (AZ-305)**
+- Microsoft Certified: **GitHub Actions (GH-200)**
+- Microsoft Certified: **Azure AI Engineer Associate (AI-102)**
+- Microsoft Certified: **Azure Administrator Associate (AZ-104)**
+- Microsoft Certified: **Azure Developer Associate (AZ-204)**
+- Google Cloud Certified: Digital Leader
+- AWS Certified Cloud Practitioner
+- Microsoft Certified: **Security, Compliance & Identity Fundamentals (SC-900)**
+- Microsoft Certified: **Power Platform Fundamentals (PL-900)**
+- Microsoft Certified: **Azure Data Fundamentals (DP-900)**
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Cloud Platforms -->
@@ -106,45 +145,6 @@ I specialize in **CI/CD automation, Infrastructure as Code (IaC), Kubernetes, De
     <img src="https://skillicons.dev/icons?i=nginx" width="40"/><br/>Nginx
   </div>
 </p>
-
----
-
-## 💼 Professional Experience
-
-### 🚀 DevOps & Cloud Engineer Associate  
-**Cognizant** (Projects: ING Bank, TriZetto Healthcare)  
-*Feb 2022 – Present*
-
-- Designed and deployed **multi-cloud architectures** on Azure and AWS, improving scalability and reducing latency by **30%**
-- Built and maintained **CI/CD pipelines** using Azure DevOps, reducing deployment failures by **20%**
-- Automated infrastructure provisioning using **Terraform and Ansible**, cutting manual effort by **40%**
-- Containerized workloads with **Docker and Kubernetes (AKS, OpenShift)** to improve release speed and reliability
-- Implemented **observability stacks** with Prometheus, Grafana, and Kibana, reducing MTTR by **18%**
-- Applied **DevSecOps and SRE practices** including IAM, WAFs, SLOs/SLIs, and error budgets
-- Authored runbooks and ITSM documentation to improve audit readiness and onboarding
-
----
-
-## 🎓 Education
-
-- **B.E. in Automobile Engineering** – Government College of Engineering & Research, Pune (2020)
-
----
-
-## 📜 Certifications
-
-- Microsoft Certified: **Azure DevOps Engineer Expert (AZ-400)**
-- Microsoft Certified: **Azure Solutions Architect Expert (AZ-305)**
-- Microsoft Certified: **GitHub Actions (GH-200)**
-- Microsoft Certified: **Azure AI Engineer Associate (AI-102)**
-- Microsoft Certified: **Azure Administrator Associate (AZ-104)**
-- Microsoft Certified: **Azure Developer Associate (AZ-204)**
-- Google Cloud Certified: Digital Leader
-- AWS Certified Cloud Practitioner
-- Microsoft Certified: **Security, Compliance & Identity Fundamentals (SC-900)**
-- Microsoft Certified: **Power Platform Fundamentals (PL-900)**
-- Microsoft Certified: **Azure Data Fundamentals (DP-900)**
-- Microsoft Certified: **Azure Fundamentals (AZ-900)**
 
 ---
 
